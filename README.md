@@ -1,5 +1,6 @@
 ## Trabalho sobre PIB (Produto interno bruto)
 
-![image](docs/img/imagem_2023-02-14_223908385.png)
+![image](docs/img/1.png)
+![image](docs/img/2.png)
 
 ## Fim do readme
